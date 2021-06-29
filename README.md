@@ -1,6 +1,6 @@
 ![alt README header](https://raw.githubusercontent.com/dahhd/dahhd/master/assert/my_header_.png)
 
 ## Hi there 👋, l'm dahhd
-## iOS Developer (Objective-C, Swift，Flutter & Python)
+## iOS Developer (Objective-C, Swift，Flutter)
 
-Welcome to my [blog](http://blogbo.org)
+Welcome to my [blog](https://www.965.one)
